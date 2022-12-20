@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/-GSG-TASK9/static/css/main.25db9dfe.css",
+    "main.js": "/-GSG-TASK9/static/js/main.159e11ed.js",
+    "static/media/logo-no-background.png": "/-GSG-TASK9/static/media/logo-no-background.c925995b4a0b9e368a00.png",
+    "index.html": "/-GSG-TASK9/index.html",
+    "main.25db9dfe.css.map": "/-GSG-TASK9/static/css/main.25db9dfe.css.map",
+    "main.159e11ed.js.map": "/-GSG-TASK9/static/js/main.159e11ed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25db9dfe.css",
+    "static/js/main.159e11ed.js"
+  ]
+}
